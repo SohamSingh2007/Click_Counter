@@ -1,0 +1,29 @@
+@media (max-width: 500px){
+    .themeMode{
+        gap: 10px;
+    }
+
+        .bttn1, .bttn2, .bttn3, .bttn4{
+            height: 40px;
+            border-radius: 5px;
+        }
+
+    .count{
+        font-size: 25vw;
+        width: 100%;
+    }
+
+    .buttons {
+        gap: 10px;
+    }
+
+    .buttons2 {
+        gap: 10px;
+    }
+
+    .bttn{
+        font-size: 4vw;
+        height: 40px;
+        border-radius: 5px;
+    }
+}
